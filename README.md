@@ -3,17 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
-- 🔭 I’m currently working on [Linux Customizing Tools] (LCT) (add me later)
+- 🔭 I’m currently working on [Linux Customizing Tools] (LCT)
 
 - 🌱 I’m currently learning **Python, MySQL & JS**
 
-- 👨‍💻 All of my projects are available at [add me later](add me later)
-
 - 💬 Ask me about **Ubuntu, Arch, AI or raspberry pi!**
 
-- 📫 How to reach me **: c.kirchebner@hotmail.com**
+- 📫 How to reach me: **Discord: terminatoror**
 
-- 📄 Know about my experiences [add me later](add me later)
+- 📄 Know about my experiences with coding!
 
 - ⚡ Fun fact **i am still in school!**
 
