@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christoph Kirchebner</h1>
+<h1 align="center">Hi 👋, I'm Terminatoror</h1>
 <h3 align="center">A young, passionate developer from Austria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
